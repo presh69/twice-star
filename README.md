@@ -1,0 +1,2 @@
+# twice-star
+say hi
